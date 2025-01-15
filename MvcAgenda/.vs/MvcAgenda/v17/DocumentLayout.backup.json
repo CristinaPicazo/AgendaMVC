@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Agenda\\MvcAgenda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4326265C-FCCC-4ECB-A9BD-0BCD91E9E17E}|MvcAgenda\\MvcAgenda.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\agenda\\mvcagenda\\mvcagenda\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4326265C-FCCC-4ECB-A9BD-0BCD91E9E17E}|MvcAgenda\\MvcAgenda.csproj|solutionrelative:mvcagenda\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4326265C-FCCC-4ECB-A9BD-0BCD91E9E17E}|MvcAgenda\\MvcAgenda.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\agenda\\mvcagenda\\mvcagenda\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4326265C-FCCC-4ECB-A9BD-0BCD91E9E17E}|MvcAgenda\\MvcAgenda.csproj|solutionrelative:mvcagenda\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4326265C-FCCC-4ECB-A9BD-0BCD91E9E17E}|MvcAgenda\\MvcAgenda.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\agenda\\mvcagenda\\mvcagenda\\views\\departamentos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4326265C-FCCC-4ECB-A9BD-0BCD91E9E17E}|MvcAgenda\\MvcAgenda.csproj|solutionrelative:mvcagenda\\views\\departamentos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4326265C-FCCC-4ECB-A9BD-0BCD91E9E17E}|MvcAgenda\\MvcAgenda.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\agenda\\mvcagenda\\mvcagenda\\controllers\\departamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4326265C-FCCC-4ECB-A9BD-0BCD91E9E17E}|MvcAgenda\\MvcAgenda.csproj|solutionrelative:mvcagenda\\controllers\\departamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4326265C-FCCC-4ECB-A9BD-0BCD91E9E17E}|MvcAgenda\\MvcAgenda.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\agenda\\mvcagenda\\mvcagenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4326265C-FCCC-4ECB-A9BD-0BCD91E9E17E}|MvcAgenda\\MvcAgenda.csproj|solutionrelative:mvcagenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4326265C-FCCC-4ECB-A9BD-0BCD91E9E17E}|MvcAgenda\\MvcAgenda.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\agenda\\mvcagenda\\mvcagenda\\migrations\\20250115161531_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4326265C-FCCC-4ECB-A9BD-0BCD91E9E17E}|MvcAgenda\\MvcAgenda.csproj|solutionrelative:mvcagenda\\migrations\\20250115161531_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4326265C-FCCC-4ECB-A9BD-0BCD91E9E17E}|MvcAgenda\\MvcAgenda.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\agenda\\mvcagenda\\mvcagenda\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4326265C-FCCC-4ECB-A9BD-0BCD91E9E17E}|MvcAgenda\\MvcAgenda.csproj|solutionrelative:mvcagenda\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4326265C-FCCC-4ECB-A9BD-0BCD91E9E17E}|MvcAgenda\\MvcAgenda.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\agenda\\mvcagenda\\mvcagenda\\data\\mvcagendacontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,6 +63,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Agenda\\MvcAgenda\\MvcAgenda\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MvcAgenda\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Agenda\\MvcAgenda\\MvcAgenda\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MvcAgenda\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-15T16:43:49.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Agenda\\MvcAgenda\\MvcAgenda\\Views\\Departamentos\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcAgenda\\Views\\Departamentos\\Index.cshtml",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Agenda\\MvcAgenda\\MvcAgenda\\Views\\Departamentos\\Index.cshtml",
+              "RelativeToolTip": "MvcAgenda\\Views\\Departamentos\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T16:40:01.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartamentosController.cs",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Agenda\\MvcAgenda\\MvcAgenda\\Controllers\\DepartamentosController.cs",
+              "RelativeDocumentMoniker": "MvcAgenda\\Controllers\\DepartamentosController.cs",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Agenda\\MvcAgenda\\MvcAgenda\\Controllers\\DepartamentosController.cs",
+              "RelativeToolTip": "MvcAgenda\\Controllers\\DepartamentosController.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:34:37.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250115161531_Inicial.cs",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Agenda\\MvcAgenda\\MvcAgenda\\Migrations\\20250115161531_Inicial.cs",
+              "RelativeDocumentMoniker": "MvcAgenda\\Migrations\\20250115161531_Inicial.cs",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Agenda\\MvcAgenda\\MvcAgenda\\Migrations\\20250115161531_Inicial.cs",
+              "RelativeToolTip": "MvcAgenda\\Migrations\\20250115161531_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:15:32.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Agenda\\MvcAgenda\\MvcAgenda\\appsettings.json",
               "RelativeDocumentMoniker": "MvcAgenda\\appsettings.json",
@@ -54,25 +122,24 @@
               "RelativeToolTip": "MvcAgenda\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-13T18:31:32.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T18:31:32.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Agenda\\MvcAgenda\\MvcAgenda\\Program.cs",
               "RelativeDocumentMoniker": "MvcAgenda\\Program.cs",
               "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Agenda\\MvcAgenda\\MvcAgenda\\Program.cs",
               "RelativeToolTip": "MvcAgenda\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T18:26:05.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "MvcAgendaContexto.cs",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Agenda\\MvcAgenda\\MvcAgenda\\Data\\MvcAgendaContexto.cs",
               "RelativeDocumentMoniker": "MvcAgenda\\Data\\MvcAgendaContexto.cs",
@@ -80,12 +147,11 @@
               "RelativeToolTip": "MvcAgenda\\Data\\MvcAgendaContexto.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T17:58:17.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T17:58:17.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Tarea.cs",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Agenda\\MvcAgenda\\MvcAgenda\\Models\\Tarea.cs",
               "RelativeDocumentMoniker": "MvcAgenda\\Models\\Tarea.cs",
@@ -93,12 +159,11 @@
               "RelativeToolTip": "MvcAgenda\\Models\\Tarea.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T17:48:01.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T17:48:01.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Empleado.cs",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Agenda\\MvcAgenda\\MvcAgenda\\Models\\Empleado.cs",
               "RelativeDocumentMoniker": "MvcAgenda\\Models\\Empleado.cs",
@@ -106,12 +171,11 @@
               "RelativeToolTip": "MvcAgenda\\Models\\Empleado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T17:47:26.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T17:47:26.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Departamento.cs",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Agenda\\MvcAgenda\\MvcAgenda\\Models\\Departamento.cs",
               "RelativeDocumentMoniker": "MvcAgenda\\Models\\Departamento.cs",
@@ -119,12 +183,11 @@
               "RelativeToolTip": "MvcAgenda\\Models\\Departamento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T17:43:31.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T17:43:31.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Agenda\\MvcAgenda\\MvcAgenda\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "MvcAgenda\\Views\\_ViewStart.cshtml",
@@ -132,12 +195,11 @@
               "RelativeToolTip": "MvcAgenda\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T17:29:07.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T17:29:07.663Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Agenda\\MvcAgenda\\MvcAgenda\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MvcAgenda\\Views\\Shared\\_Layout.cshtml",
@@ -145,8 +207,7 @@
               "RelativeToolTip": "MvcAgenda\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T17:28:29.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T17:28:29.756Z"
             }
           ]
         }

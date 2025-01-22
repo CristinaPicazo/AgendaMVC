@@ -20,3 +20,8 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+a:hover {
+    color: #f50707 !important;
+}
+
